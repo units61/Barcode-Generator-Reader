@@ -1,0 +1,5 @@
+Barkod Değeri: 300
+Barkod Değeri: 250
+Barkod Değeri: 1000
+Barkod Değeri: 10000
+Barkod Değeri: 100000
